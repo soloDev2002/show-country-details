@@ -1,0 +1,14 @@
+.searched__country__container {
+  padding: 160px 5%;
+  height: 100vh;
+  background-color: #111;
+}
+.home__button {
+  position: fixed;
+  top: 100px;
+  cursor: pointer;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  background-color: rgb(255, 15, 55);
+}

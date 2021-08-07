@@ -1,0 +1,23 @@
+Overview:-
+This web app can be used to get certain details about different countries organised in region based manner.
+
+Additional information:-
+
+1.Added refresh button as specified in the assignment.
+2.Also added a searchbar which allows you to search for country by their name.
+3.Also added a button that allows you to select which region you want to see, this data is then stored in session storage so you dont need to set it every time refresh the page.
+
+Packages used:
+
+1.react-router-dom --> to specify the routes to distinct pages, namely - homepage,searched page and error page
+2.firebase-tools --> to deploy it on firebase
+3.material-ui-icons--> for ceratin icons like back and reload
+4. axios --> to fetch data from rest api
+
+Pages:
+
+1.Home page:-
+This page shows all the countries located in the selected region.
+
+2.Search page:-
+This page appears after you search for certain country and the country exists
